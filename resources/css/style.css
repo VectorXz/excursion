@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading-text {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.download-link {
+    color: aquamarine;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.video-player {
+    margin-top: 20px;
+}
+
+.subheading-text {
+    font-size: 21px;
+    color: gray;
+}
+
+.phone-icon {
+    margin-top: 30px;
+}
+
+.footer-text {
+    color: gray;
+    text-align: right;
+}
